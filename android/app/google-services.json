@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "299233399455",
+    "project_id": "barberia-boeta",
+    "storage_bucket": "barberia-boeta.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299233399455:android:2df93fb0d83c718916c8aa",
+        "android_client_info": {
+          "package_name": "com.barberia.barberia_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1QxMDU4eQ4vUJPCszqXIPufcgTHV7anw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
